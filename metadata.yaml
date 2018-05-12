@@ -1,0 +1,32 @@
+_repo: Ghosts-and-Family-LegendsA-Volume-for-Christmas_39485
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crowe, Catherine
+    aliases:
+    - Crowe, Catherine Stevens
+    - Crowe, Catharine
+    - Stevens, Catherine
+    birthdate: 1790
+    deathdate: 1876
+    gutenberg_agent_id: '40044'
+    url: http://www.gutenberg.org/2009/agents/40044
+description: ''
+gutenberg_issued: '2012-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Great Britain'
+- !lcsh 'Folklore -- Great Britain'
+- !lcc 'BF'
+- !lcsh 'Ghosts -- Great Britain'
+title: 'Ghosts and Family Legends: A Volume for Christmas'
+url: http://www.gutenberg.org/ebooks/39485
