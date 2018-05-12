@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '40044'
     url: http://www.gutenberg.org/2009/agents/40044
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39485#Ghosts-and-Family-LegendsA-Volume-for-Christmas
 gutenberg_issued: '2012-04-19'
 gutenberg_type: Text
 identifiers:
